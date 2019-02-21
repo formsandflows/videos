@@ -5,7 +5,7 @@ This folder contains all the files needed for the game (app created with PowerAp
 # Installation
 
 1. Create the SharePoint list (see the file "SharePoint").
-2. Add data to the list. Make sure you have enough images per category!
+2. Add data to the list. Make sure you have enough images per category! Check the png file for some examples.
 3. Import the PowerApps package (zip-file).
 4. Open the app.
 5. Remove the SharePoint data source.
